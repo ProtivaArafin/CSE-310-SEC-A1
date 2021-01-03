@@ -1,1 +1,1 @@
-it contains cse 310 all files
+it contains all cse 310 files
